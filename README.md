@@ -16,7 +16,7 @@ The final submission should include the Jupyter Notebook and other relevant file
 
 ## Links to Project Deliverables
 - READMe file with summary of findings >>        [https://github.com/altruizim101/ ... /edit/main/README.md](https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/README.md)
-- Link to Jupyter notebook here >>               [https://github.com/altruizim101/...](https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/mod17_PracticalApplication_III.ipynb)
+- Link to Jupyter notebook here >>               https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/mod17_PracticalApplication_III.ipynb
 - Data Analysis & Results >>                      https://github.com/altruizim101/...
 
  
