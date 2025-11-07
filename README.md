@@ -4,7 +4,8 @@
 The goal of this exercise is to compare the performance of the classifiers we encountered in this section, namely K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines. 
 We utilize a dataset related to marketing bank products over the telephone.
 
-# Data Source: ---- https://archive.ics.uci.edu/dataset/222/bank+marketing 
+Data Source: ---- https://archive.ics.uci.edu/dataset/222/bank+marketing
+
 Two available datasets: 
 1) bank-additional-full.csv with all examples (41188) and 20 inputs, ordered by date (from May 2008 to November 2010), 
      very close to the data analyzed in [Moro et al., 2014]
@@ -27,8 +28,13 @@ Checked for Null (NaN) values possibly captured in data to remove before analysi
 Action: removed missing (NaN) data in columns
 
 ## (Engineering Features)
+Build a basic model to get started. First, encode the data. Using just the bank information features, prepare the features and target column for modeling with appropriate encoding and transformations.
+After data prepared, split data into a train and test set.
 
 ## (Modeling - A Baseline Model)
+Before building first model, we establish a baseline and observe its performance that our classifier should aim to beat.
+mse_baseline_train = 0.11140785959557421
+mse_baseline_test = 0.11556202961883952
 
 ## (Modeling - A Simple Model)
 
