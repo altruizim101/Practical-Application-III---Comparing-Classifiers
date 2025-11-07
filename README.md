@@ -4,6 +4,12 @@
 The goal of this exercise is to compare the performance of the classifiers we encountered in this section, namely K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines. 
 We utilize a dataset related to marketing bank products over the telephone.
 
+# Data Source: ---- https://archive.ics.uci.edu/dataset/222/bank+marketing 
+Two available datasets: 
+1) bank-additional-full.csv with all examples (41188) and 20 inputs, ordered by date (from May 2008 to November 2010), 
+     very close to the data analyzed in [Moro et al., 2014]
+2) bank-additional.csv with 10% of the examples (4119), randomly selected from 1), and 20 inputs.
+   
 ## Deliverables
 The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
 
@@ -12,11 +18,6 @@ The final submission should include the Jupyter Notebook and other relevant file
 - Link to Jupyter notebook here >>               https://github.com/altruizim101/...
 - Data Analysis & Results >>                      https://github.com/altruizim101/...
 
-# Data Source: ---- https://archive.ics.uci.edu/dataset/222/bank+marketing 
-Two available datasets: 
-1) bank-additional-full.csv with all examples (41188) and 20 inputs, ordered by date (from May 2008 to November 2010), 
-     very close to the data analyzed in [Moro et al., 2014]
-2) bank-additional.csv with 10% of the examples (4119), randomly selected from 1), and 20 inputs.
  
 ## (Data Understanding/ Understand Features)
 I reveiwed features and attributes of the data, using Pandas tool and its functions. I loaded data and reviewed summary of data content using the pandas methods:
