@@ -15,9 +15,9 @@ Two available datasets:
 The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
 
 ## Links to Project Deliverables
-- READMe file with summary of findings >>        [https://github.com/altruizim101/ ... /edit/main/README.md](https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/README.md)
-- Link to Jupyter notebook here >>               https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/mod17_PracticalApplication_III.ipynb
-- Data Analysis & Results >>                      https://github.com/altruizim101/...
+- READMe file with summary of findings >>  [https://github.com/altruizim101/ ... /edit/main/README.md](https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/README.md)
+- Link to Jupyter notebook here >>         https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/mod17_PracticalApplication_III.ipynb
+- Data Analysis & Results >>               [https://github.com/altruizim101/ ... /edit/main/README.md](https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/README.md)
 
  
 ## (Data Understanding/ Understand Features)
