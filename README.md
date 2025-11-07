@@ -1,4 +1,4 @@
-# Practical-Application-III---Comparing-Classifiers
+# Practical-Application-III: Comparing-Classifiers
 
 ## (Goal & Objective)
 The goal of this exercise
