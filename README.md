@@ -37,6 +37,9 @@ The performance results for the established Baseline model for our classifier is
 - mse_baseline_test = 0.11556202961883952
 
 ## (Modeling - A Simple Model)
+Next, we build a Simple model Classifier and observed the performance compared to the Baseline model.
+For the same dataset, using similar metric for comparison to Baseline model, the Simple model performed comparable to this Baseline model.
+
 
 ## (Modeling - Comparing The Model)
 
