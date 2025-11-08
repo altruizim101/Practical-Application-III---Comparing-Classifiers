@@ -37,11 +37,15 @@ The performance results for the established Baseline model for our classifier is
 - mse_baseline_test = 0.11556202961883952
 
 ## (Modeling - A Simple Model)
-Next, we build a Simple model Classifier and observed the performance compared to the Baseline model.
+Next, we build a Simple model Classifier using Logidtic Regression and observed the performance compared to the Baseline model.
 For the same dataset, using similar metric for comparison to Baseline model, the Simple model performed comparable to this Baseline model.
 
-
 ## (Modeling - Comparing The Model)
+With Baseline established and Simple model using Logistic Regression available, I proceeded with comparing the performance of the Logistic Regression model to the KNN algorithm, Decision Tree, and SVM models. 
+Using the default settings for each of the models, I also fit and score each of these models. 
+Next, I compared the required "time to fit" each of the models. The data is presented in a DataFrame below:
+
+
 
 ## (Improving The Model - Hyperparameter Finetuning)
 
