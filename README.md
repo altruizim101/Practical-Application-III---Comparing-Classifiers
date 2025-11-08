@@ -53,10 +53,21 @@ Next, I compared the required "time to fit" each of the models. The data is pres
 ##
 Indx          Model          TrainTime(sec)          Accuracy
 
-1) LogReg:     0.087551     0.910091
-2) KNN:        0.036798  0.898681
-3) DTree:          0.158389  0.888646
-4) SVM:          3.816918  0.909687
+A) LogReg:     0.087551                0.910091
+B) KNN:        0.036798                0.898681
+C) DTree:      0.158389                0.888646
+D) SVM:        3.816918                0.909687
+
+From the data in Table above, in terms of Accuracy: 
+- Logistic Regression and SVM performed the best and comparable
+- KNN is next followed by Decision Tree
+
+From the data in Table above, in terms of Training Time:
+
+- KNN performed best (shortest training time.
+- NExt was KNN, and folloed by Decision Tree
+- SVM performed worst (longest time to train)
+
 
 ## (Improving The Model - Hyperparameter Finetuning)
 
