@@ -40,6 +40,12 @@ The performance results for the established Baseline model for our classifier is
 Next, we build a Simple model Classifier using Logidtic Regression and observed the performance compared to the Baseline model.
 For the same dataset, using similar metric for comparison to Baseline model, the Simple model performed comparable to this Baseline model.
 
+- mse_baseline_train = 0.11140785959557421
+- mse_baseline_test = 0.11556202961883952
+
+The model performed fairly well, with accuracy score of:
+- accuracy =  0.8844379703811605
+
 ## (Modeling - Comparing The Model)
 With Baseline established and Simple model using Logistic Regression available, I proceeded with comparing the performance of the Logistic Regression model to the KNN algorithm, Decision Tree, and SVM models. 
 Using the default settings for each of the models, I also fit and score each of these models. 
