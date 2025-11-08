@@ -69,6 +69,12 @@ Fortunately, all of the above models have additional hyperparameters to tune:
 - In SVM, the value of Gamma.
 - In Logistic Regression, the type of algorithm for optimization.
 
+The results from Hyperparameter Tuning given below:
+
+- LogReg {'models__C': 1, 'models__solver': 'liblinear'} 0.9110334007146885
+- knn {'models__n_neighbors': 7, 'models__weights': 'uniform'} 0.904269907708052
+- DTree {'models__max_depth': 5, 'models__min_samples_split': 2} 0.912247233457961
+- SVM {'models__C': 1, 'models__gamma': 'scale', 'models__kernel': 'linear'} 0.9042351795151056
 
 
 Overall, the following observations and recommendations are noted:
