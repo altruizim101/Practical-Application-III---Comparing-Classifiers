@@ -31,9 +31,10 @@ fo rthis secion, I encode the data using just bank information features, prepare
 After data prepared, I then split data into a train and test set.
 
 ## (Modeling - A Baseline Model)
-Before building first model, we establish a baseline and observe its performance that our classifier should aim to beat.
-mse_baseline_train = 0.11140785959557421
-mse_baseline_test = 0.11556202961883952
+The performance results for the established Baseline model for our classifier is:
+
+- mse_baseline_train = 0.11140785959557421
+- mse_baseline_test = 0.11556202961883952
 
 ## (Modeling - A Simple Model)
 
