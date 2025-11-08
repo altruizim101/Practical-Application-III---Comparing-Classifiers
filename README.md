@@ -65,7 +65,7 @@ From the data in Table above, in terms of Accuracy:
 From the data in Table above, in terms of Training Time:
 
 - KNN performed best (shortest training time.
-- NExt was KNN, and folloed by Decision Tree
+- In second place was KNN, and folloed by Decision Tree
 - SVM performed worst (longest time to train)
 
 
@@ -87,10 +87,13 @@ The results from Hyperparameter Tuning given below:
 - DTree {'models__max_depth': 5, 'models__min_samples_split': 2} 0.912247233457961
 - SVM {'models__C': 1, 'models__gamma': 'scale', 'models__kernel': 'linear'} 0.9042351795151056
 
+Following a structured approach, we explored with various models for classification and evaluated peroformance taking into account trade-offs in terms of 
 
-Overall, the following observations and recommendations are noted:
+- Accuracy
+- Training Time
+- Optimization through Hyperparameter Tuning
 
-
+This provided us the ability to make better informed decision as to choice of classifier to employ for a given use case and constraints.
 
 
 
