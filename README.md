@@ -51,7 +51,6 @@ With Baseline established and Simple model using Logistic Regression available, 
 Using the default settings for each of the models, I also fit and score each of these models. 
 Next, I compared the required "time to fit" each of the models. The data is presented in a DataFrame below:
 ##
-
 Indx          Model          TrainTime(sec)          Accuracy
 
 1) LogReg:     0.087551     0.910091
@@ -59,10 +58,23 @@ Indx          Model          TrainTime(sec)          Accuracy
 3) DTree:          0.158389  0.888646
 4) SVM:          3.816918  0.909687
 
-
-
-
 ## (Improving The Model - Hyperparameter Finetuning)
 
 ## Next Steps & Recommendations
+Using these basic models, we proceed to improve these models through exploration of Hyperparameter tuning and grid search. 
+Fortunately, all of the above models have additional hyperparameters to tune:
+
+- In KNN, the number of neighbors.
+- In Decision Tree, the maximum depth of a Decision Tree.
+- In SVM, the value of Gamma.
+- In Logistic Regression, the type of algorithm for optimization.
+
+
+
 Overall, the following observations and recommendations are noted:
+
+
+
+
+
+
