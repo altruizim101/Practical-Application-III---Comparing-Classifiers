@@ -19,17 +19,16 @@ The final submission should include the Jupyter Notebook and other relevant file
 - Link to Jupyter notebook here >>         https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/mod17_PracticalApplication_III.ipynb
 - Data Analysis & Results >>               [https://github.com/altruizim101/ ... /edit/main/README.md](https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/README.md)
 
- 
 ## (Data Understanding/ Understand Features)
 I reveiwed features and attributes of the data, using Pandas tool and its functions. I loaded data and reviewed summary of data content using the pandas methods:
 data.head(), data.info(), data.sample(), data.shape()...
 
-Checked for Null (NaN) values possibly captured in data to remove before analysis. Removed NaN data as appropriate.
+I checked for possible Null (NaN) values in data for removal before analysis. Then filtered NaN data as appropriate.
 Action: removed missing (NaN) data in columns
 
 ## (Engineering Features)
-Build a basic model to get started. First, encode the data. Using just the bank information features, prepare the features and target column for modeling with appropriate encoding and transformations.
-After data prepared, split data into a train and test set.
+fo rthis secion, I encode the data using just bank information features, prepared the features and target column for modeling with the appropriate encoding and transformations.
+After data prepared, I then split data into a train and test set.
 
 ## (Modeling - A Baseline Model)
 Before building first model, we establish a baseline and observe its performance that our classifier should aim to beat.
