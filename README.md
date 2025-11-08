@@ -17,8 +17,8 @@ The final submission should include the Jupyter Notebook and other relevant file
 ## Links to Project Deliverables
 - READMe file with summary of findings >>  [https://github.com/altruizim101/ ... /edit/main/README.md](https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/README.md)
 - Link to Jupyter notebook here >>         https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/mod17_PracticalApplication_III.ipynb
-- Data Analysis & Results >>               [https://github.com/altruizim101/ ... /edit/main/README.md](https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/blob/main/README.md)
-
+- Data Analysis & Results >>               https://github.com/altruizim101/Practical-Application-III---Comparing-Classifiers/tree/main
+- 
 ## (Data Understanding/ Understand Features)
 I reveiwed features and attributes of the data, using Pandas tool and its functions. I loaded data and reviewed summary of data content using the pandas methods:
 data.head(), data.info(), data.sample(), data.shape()...
