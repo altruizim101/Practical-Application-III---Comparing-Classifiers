@@ -52,7 +52,8 @@ Using the default settings for each of the models, I also fit and score each of 
 Next, I compared the required "time to fit" each of the models. The data is presented in a DataFrame below:
 ##
 
-Indx     Model     TrainTime(sec)     Accuracy
+Indx     Model     TrainTime(sec)   Accuracy
+
 
 0     LogReg     0.087551     0.910091
 
