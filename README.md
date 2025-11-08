@@ -52,16 +52,12 @@ Using the default settings for each of the models, I also fit and score each of 
 Next, I compared the required "time to fit" each of the models. The data is presented in a DataFrame below:
 ##
 
-Indx     Model     TrainTime(sec)   Accuracy
+Indx          Model          TrainTime(sec)          Accuracy
 
-
-0     LogReg     0.087551     0.910091
-
-1     knn          0.036798  0.898681
-
-2   DTree          0.158389  0.888646
-
-3     SVM          3.816918  0.909687
+1) LogReg:     0.087551     0.910091
+2) KNN:        0.036798  0.898681
+3) DTree:          0.158389  0.888646
+4) SVM:          3.816918  0.909687
 
 
 
